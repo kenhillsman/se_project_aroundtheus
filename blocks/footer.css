@@ -9,9 +9,16 @@
   margin: auto;
 }
 
-@media screen and (max-width: 525px) {
+@media screen and (max-width: 800px) {
   .footer__copyright {
     margin: auto;
     max-width: 282px;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .footer__copyright {
+    margin: 0;
+    padding: 48px 19px 36px;
   }
 }

@@ -35,7 +35,7 @@
   opacity: 0.5;
 }
 
-@media screen and (max-width: 525px) {
+@media screen and (max-width: 800px) {
   .card__list {
     width: 100%;
   }
