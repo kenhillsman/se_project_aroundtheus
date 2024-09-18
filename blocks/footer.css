@@ -9,14 +9,24 @@
   margin: auto;
 }
 
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 1280px) {
   .footer__copyright {
     margin: auto;
-    max-width: 282px;
+    padding-left: 50px;
+  }
+
+  .footer {
+    max-width: 880px;
   }
 }
 
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 800px) {
+  .footer {
+    margin: 0;
+  }
+}
+
+@media screen and (max-width: 620px) {
   .footer__copyright {
     margin: 0;
     padding: 48px 19px 36px;

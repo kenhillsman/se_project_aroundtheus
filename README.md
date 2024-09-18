@@ -1,3 +1,12 @@
+Skills used in project:
+
+Grid Layout
+Adaptive web design
+
+Links:
+
+https://github.com/kenhillsman/se_project_aroundtheus
+
 # Project 3: Around The U.S.
 
 ### Overview
@@ -19,12 +28,3 @@ This project is made so all the elements are displayed correctly on popular scre
 The way you'll do this at work is by exporting images directly from Figma — we recommend doing that to practice more. Don't forget to optimize them [here](https://tinypng.com/), so your project loads faster.
 
 Good luck and have fun!
-
-Skills used in project:
-
-Grid Layout
-Adaptive web design
-
-Links:
-
-https://github.com/kenhillsman/se_project_aroundtheus
