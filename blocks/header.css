@@ -18,13 +18,13 @@
 @media screen and (max-width: 800px) {
   .header {
     margin: 0;
+    padding-right: 0;
   }
 }
 
 @media screen and (max-width: 620px) {
   .header {
     padding: 28px 0 32px 27px;
-    margin: 0;
   }
 
   .header__image {
