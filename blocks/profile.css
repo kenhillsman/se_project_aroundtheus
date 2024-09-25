@@ -123,6 +123,8 @@
   .profile__title {
     margin: unset;
     font-size: 22px;
+    padding-top: 30px;
+    max-width: 222px;
   }
 
   .profile__info {
@@ -142,6 +144,7 @@
     width: 100%;
     text-align: center;
     font-size: 14px;
+    max-width: 282px;
   }
 
   .profile__add-button {
