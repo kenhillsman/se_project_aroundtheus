@@ -5,9 +5,7 @@ Adaptive web design
 
 Links:
 
-https://github.com/kenhillsman
-
-https://github.com/kenhillsman/se_project_aroundtheus
+https://kenhillsman.github.io/se_project_aroundtheus/
 
 https://drive.google.com/file/d/1WkpJiS2jO2DtEPcggmWcw9lsPAMcQhlP/view?usp=share_link
 
